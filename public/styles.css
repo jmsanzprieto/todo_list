@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* styles.css */
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.nueva_tarea{
+    padding: 20px;;
+}
